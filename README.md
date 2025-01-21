@@ -6,3 +6,7 @@ RecipeSearch latest UI implementation uploaded. Some screenshots:
 ![screenshot_2](https://github.com/user-attachments/assets/9037d6ee-b5ae-4486-87f1-3e7aede71b5d)
 ![screenshot_3](https://github.com/user-attachments/assets/2f1bf5f7-373e-47c8-8a37-393c3068402b)
 ![screenshot_4](https://github.com/user-attachments/assets/b886e58e-4d73-4ded-a44d-e843eb32fa16)
+
+21/01/2025 Chris
+Chatbot 1.0 uploaded:
+![Chatbot_1 0_screenshot](https://github.com/user-attachments/assets/310263a7-7b8b-4fef-916d-46e130eb3f69)
