@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>主页</title>
+</head>
+
+<body>
+<button onclick="test()">测试</button>
+<button onclick="endCall()">挂断</button>
+<span id="log" class="log"></span>
+</body>
+<style>
+    body {
+      width: 100%;
+      height: 100%;
+    }
+    .log {
+      width: 100%;
+    }
+</style>
+<script>
+    function test(){
+      this.webapp.postMessage(JSON. stringify({
+                data: {
+                  action: "fabuyuzhan",
+                  u: "file:///android_asset/index.html",//通话地址
+                },
+              })
+      );
+}
+
+
+   function endCall(){
+      this.webapp.postMessage(JSON. stringify({
+                data: {
+                  action: "电话挂断"
+                },
+              })
+      );
+
+    }
+</script>
+</html>
