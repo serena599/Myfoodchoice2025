@@ -1,4 +1,10 @@
 # Myfoodchoice2025
+17/02/2025 Chris
+myfoodchoice_RecipeSearch_nodejs使用说明.pages updated. Add more test data (20 recipes).
+![screenshot_7](https://github.com/user-attachments/assets/4f3da437-4491-4497-b775-e90f94dfd0aa)
+![screenshot_8](https://github.com/user-attachments/assets/0bd3c591-44ab-4628-9c44-1135185cf285)
+
+
 05/02/2025 Chris
 RecipeSearch Node.js backend version uploaded, See the .page file for instructions on how to run.
 ![screenshot_1](https://github.com/user-attachments/assets/69dfd991-0ba2-4e4f-92c8-110156760066)
